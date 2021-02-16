@@ -1,17 +1,17 @@
-# lrose-cyclone
+# lrose-elle
 
 <img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
 <img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpeg">
 
-## **LROSE Cyclone** - The Lidar Radar Open Software Environment "Cyclone" Release
+## **LROSE Elle** - The Lidar Radar Open Software Environment "Elle" Release
 
-[![DOI](https://zenodo.org/badge/199713573.svg)](https://zenodo.org/badge/latestdoi/199713573)
+DOI coming soon
 
-The second LROSE release is called **"Cyclone"** (a bright red rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
+The third LROSE release is called **"Elle"** (a bright red rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
-Cyclone can be used from a 'Virtual Toolbox' using Docker and a wrapper script, or compiled in C++ for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
+Elle can be installed in pre-compiled binary form or compiled from C++ source for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
 
-Full documentation for Cyclone is available on the [LROSE website](https://lrose.net)
+Full documentation for Elle is available on the [LROSE wiki](https://wiki.lrose.net)
 
 We encourage users to [register](https://lrose.net/software.html) in order to receive critical software updates, and sign up for the mailing list to help build the LROSE community.
 
@@ -24,7 +24,7 @@ LROSE is a co-operative project between:
 
 LROSE is funded by the [National Science Foundation](https://www.nsf.gov).
 
-**Cyclone** focuses on high-quality, well-tested, well-maintained and well-documented key applications as ‘building blocks’, allowing users to assemble trusted, reproducible workflows to accomplish more complex scientific tasks.
+**Elle** focuses on high-quality, well-tested, well-maintained and well-documented key applications as ‘building blocks’, allowing users to assemble trusted, reproducible workflows to accomplish more complex scientific tasks.
 
 In the current release, the following tools are available:
 
@@ -64,5 +64,5 @@ In the current release, the following tools are available:
 
 ### Future Release Plans
 
-Cyclone is considered an 'unstable' release under active development.
-The most recent stable release is "Blaze".
+Elle is considered an 'unstable' release under active development.
+The most recent stable release is "Cyclone".
