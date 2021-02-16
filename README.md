@@ -1,13 +1,13 @@
 # lrose-elle
 
 <img align="left" width="175" height="175" src="./docs/images/LROSE_logo_small.png">
-<img align="right" width="175" height="175" src="./docs/images/CYCLONE.jpeg">
+<img align="right" width="175" height="175" src="./docs/images/elle_small.jpg">
 
 ## **LROSE Elle** - The Lidar Radar Open Software Environment "Elle" Release
 
 DOI coming soon
 
-The third LROSE release is called **"Elle"** (a bright red rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
+The third LROSE release is called **"Elle"** (a pink blend fragrant rose) and encompasses six key toolsets that define a core lidar/radar workflow: *Convert, Display, QC, Grid, Echo, and Winds*
 
 Elle can be installed in pre-compiled binary form or compiled from C++ source for native apps on Linux or Mac. Preliminary support is available for some tools on Windows.
 
